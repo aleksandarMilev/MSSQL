@@ -1,1 +1,1 @@
-# MSSQL
+This course focuses on the relational model, data modeling with ER diagrams (tables and relationships), and working with SQL (data retrieval, selection, projection, joins, aggregation, grouping, updating, deleting, and inserting). It provides fundamental knowledge of ACID transactions and transactional processing, along with practical tips for performance tuning. The course lays the groundwork for working with databases, making it easier to use them in real-world applications and understand concepts like converting a database into an Object-Relational Model (ORM).
